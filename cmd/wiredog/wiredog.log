@@ -1,0 +1,185 @@
+2019/05/03 15:57:52 Started monitoring.
+2019/05/03 15:57:54 trimmed 0 requests from recent history
+2019/05/03 15:57:54 number of requests: 1
+2019/05/03 15:57:55 trimmed 0 requests from recent history
+2019/05/03 15:57:56 trimmed 0 requests from recent history
+2019/05/03 15:57:56 number of requests: 8
+2019/05/03 15:57:56 High traffic generated an alert - hits = 8
+2019/05/03 15:57:57 trimmed 0 requests from recent history
+2019/05/03 15:57:58 trimmed 1 requests from recent history
+2019/05/03 15:57:58 number of requests: 4
+2019/05/03 15:57:58 Alert recovered; back to normal traffic
+2019/05/03 15:57:59 trimmed 6 requests from recent history
+2019/05/03 15:58:00 number of requests: 5
+2019/05/03 15:58:00 trimmed 2 requests from recent history
+2019/05/03 15:58:01 trimmed 0 requests from recent history
+2019/05/03 15:58:02 trimmed 4 requests from recent history
+2019/05/03 15:58:02 number of requests: 4
+2019/05/03 15:58:03 trimmed 1 requests from recent history
+2019/05/03 15:58:04 number of requests: 6
+2019/05/03 15:58:04 High traffic generated an alert - hits = 6
+2019/05/03 15:58:04 trimmed 4 requests from recent history
+2019/05/03 15:58:05 trimmed 4 requests from recent history
+2019/05/03 15:58:06 number of requests: 5
+2019/05/03 15:58:06 Alert recovered; back to normal traffic
+2019/05/03 15:58:06 trimmed 0 requests from recent history
+2019/05/03 15:58:07 trimmed 5 requests from recent history
+2019/05/03 15:58:08 number of requests: 6
+2019/05/03 15:58:08 High traffic generated an alert - hits = 6
+2019/05/03 15:58:08 trimmed 1 requests from recent history
+2019/05/03 15:58:09 trimmed 3 requests from recent history
+2019/05/03 15:58:10 number of requests: 6
+2019/05/03 15:58:10 trimmed 2 requests from recent history
+2019/05/03 15:58:11 trimmed 3 requests from recent history
+2019/05/03 15:58:12 number of requests: 4
+2019/05/03 15:58:12 Alert recovered; back to normal traffic
+2019/05/03 15:58:12 trimmed 3 requests from recent history
+2019/05/03 15:58:13 trimmed 1 requests from recent history
+2019/05/03 15:58:14 trimmed 5 requests from recent history
+2019/05/03 15:58:14 number of requests: 5
+2019/05/03 15:58:15 trimmed 2 requests from recent history
+2019/05/03 15:58:16 number of requests: 6
+2019/05/03 15:58:16 High traffic generated an alert - hits = 6
+2019/05/03 15:58:16 trimmed 2 requests from recent history
+2019/05/03 15:58:17 trimmed 4 requests from recent history
+2019/05/03 15:58:18 number of requests: 7
+2019/05/03 15:58:18 trimmed 1 requests from recent history
+2019/05/03 15:58:19 trimmed 4 requests from recent history
+2019/05/03 15:58:20 trimmed 2 requests from recent history
+2019/05/03 15:58:20 number of requests: 5
+2019/05/03 15:58:20 Alert recovered; back to normal traffic
+2019/05/03 15:58:21 trimmed 3 requests from recent history
+2019/05/03 15:58:22 trimmed 4 requests from recent history
+2019/05/03 15:58:22 number of requests: 4
+2019/05/03 15:58:23 trimmed 0 requests from recent history
+2019/05/03 15:58:24 number of requests: 6
+2019/05/03 15:58:24 High traffic generated an alert - hits = 6
+2019/05/03 15:58:24 trimmed 5 requests from recent history
+2019/05/03 15:58:25 trimmed 3 requests from recent history
+2019/05/03 15:58:26 number of requests: 6
+2019/05/03 15:58:26 trimmed 1 requests from recent history
+2019/05/03 15:58:27 trimmed 5 requests from recent history
+2019/05/03 15:58:28 number of requests: 6
+2019/05/03 15:58:28 trimmed 1 requests from recent history
+2019/05/03 15:58:29 trimmed 3 requests from recent history
+2019/05/03 15:58:30 number of requests: 5
+2019/05/03 15:58:30 Alert recovered; back to normal traffic
+2019/05/03 15:58:30 trimmed 3 requests from recent history
+2019/05/03 15:58:31 trimmed 2 requests from recent history
+2019/05/03 15:58:32 number of requests: 4
+2019/05/03 15:58:32 trimmed 4 requests from recent history
+2019/05/03 15:58:33 trimmed 1 requests from recent history
+2019/05/03 15:58:34 number of requests: 6
+2019/05/03 15:58:34 High traffic generated an alert - hits = 6
+2019/05/03 15:58:34 trimmed 4 requests from recent history
+2019/05/03 15:58:35 trimmed 4 requests from recent history
+2019/05/03 15:58:36 number of requests: 7
+2019/05/03 15:58:36 trimmed 0 requests from recent history
+2019/05/03 15:58:37 trimmed 5 requests from recent history
+2019/05/03 15:58:38 number of requests: 5
+2019/05/03 15:58:38 Alert recovered; back to normal traffic
+2019/05/03 15:58:38 trimmed 1 requests from recent history
+2019/05/03 15:58:39 trimmed 3 requests from recent history
+2019/05/03 15:58:39 Stopped monitoring.
+2019/05/03 15:59:22 Started monitoring.
+2019/05/03 15:59:24 number of requests: 7
+2019/05/03 15:59:24 High traffic generated an alert - hits = 7
+2019/05/03 15:59:24 trimmed 0 requests from recent history
+2019/05/03 15:59:25 trimmed 0 requests from recent history
+2019/05/03 15:59:26 number of requests: 5
+2019/05/03 15:59:26 Alert recovered; back to normal traffic
+2019/05/03 15:59:26 trimmed 0 requests from recent history
+2019/05/03 15:59:27 trimmed 0 requests from recent history
+2019/05/03 15:59:28 number of requests: 5
+2019/05/03 15:59:28 trimmed 7 requests from recent history
+2019/05/03 15:59:29 trimmed 2 requests from recent history
+2019/05/03 15:59:30 number of requests: 5
+2019/05/03 15:59:30 trimmed 3 requests from recent history
+2019/05/03 15:59:31 trimmed 1 requests from recent history
+2019/05/03 15:59:32 number of requests: 5
+2019/05/03 15:59:32 trimmed 4 requests from recent history
+2019/05/03 15:59:33 trimmed 1 requests from recent history
+2019/05/03 15:59:34 number of requests: 4
+2019/05/03 15:59:34 trimmed 4 requests from recent history
+2019/05/03 15:59:35 trimmed 1 requests from recent history
+2019/05/03 15:59:36 number of requests: 5
+2019/05/03 15:59:36 trimmed 4 requests from recent history
+2019/05/03 15:59:37 trimmed 0 requests from recent history
+2019/05/03 15:59:38 number of requests: 4
+2019/05/03 15:59:38 trimmed 4 requests from recent history
+2019/05/03 15:59:39 trimmed 2 requests from recent history
+2019/05/03 15:59:40 number of requests: 5
+2019/05/03 15:59:40 trimmed 3 requests from recent history
+2019/05/03 15:59:41 trimmed 4 requests from recent history
+2019/05/03 15:59:42 number of requests: 6
+2019/05/03 15:59:42 High traffic generated an alert - hits = 6
+2019/05/03 15:59:42 trimmed 0 requests from recent history
+2019/05/03 15:59:43 trimmed 4 requests from recent history
+2019/05/03 15:59:44 number of requests: 6
+2019/05/03 15:59:44 trimmed 1 requests from recent history
+2019/05/03 15:59:45 trimmed 4 requests from recent history
+2019/05/03 15:59:46 number of requests: 5
+2019/05/03 15:59:46 Alert recovered; back to normal traffic
+2019/05/03 15:59:46 trimmed 2 requests from recent history
+2019/05/03 15:59:47 trimmed 3 requests from recent history
+2019/05/03 15:59:48 number of requests: 5
+2019/05/03 15:59:48 trimmed 3 requests from recent history
+2019/05/03 15:59:49 trimmed 1 requests from recent history
+2019/05/03 15:59:50 number of requests: 5
+2019/05/03 15:59:50 trimmed 4 requests from recent history
+2019/05/03 15:59:51 trimmed 1 requests from recent history
+2019/05/03 15:59:52 number of requests: 4
+2019/05/03 15:59:52 trimmed 4 requests from recent history
+2019/05/03 15:59:53 trimmed 1 requests from recent history
+2019/05/03 15:59:54 number of requests: 5
+2019/05/03 15:59:54 trimmed 4 requests from recent history
+2019/05/03 15:59:55 trimmed 2 requests from recent history
+2019/05/03 15:59:56 number of requests: 4
+2019/05/03 15:59:56 trimmed 2 requests from recent history
+2019/05/03 15:59:57 trimmed 3 requests from recent history
+2019/05/03 15:59:58 number of requests: 3
+2019/05/03 15:59:58 trimmed 2 requests from recent history
+2019/05/03 15:59:59 trimmed 1 requests from recent history
+2019/05/03 16:00:00 number of requests: 6
+2019/05/03 16:00:00 High traffic generated an alert - hits = 6
+2019/05/03 16:00:00 trimmed 3 requests from recent history
+2019/05/03 16:00:01 trimmed 0 requests from recent history
+2019/05/03 16:00:02 number of requests: 5
+2019/05/03 16:00:02 Alert recovered; back to normal traffic
+2019/05/03 16:00:02 trimmed 3 requests from recent history
+2019/05/03 16:00:03 trimmed 2 requests from recent history
+2019/05/03 16:00:04 number of requests: 4
+2019/05/03 16:00:04 trimmed 4 requests from recent history
+2019/05/03 16:00:05 trimmed 1 requests from recent history
+2019/05/03 16:00:06 number of requests: 5
+2019/05/03 16:00:06 trimmed 4 requests from recent history
+2019/05/03 16:00:07 trimmed 2 requests from recent history
+2019/05/03 16:00:08 number of requests: 4
+2019/05/03 16:00:08 trimmed 2 requests from recent history
+2019/05/03 16:00:09 trimmed 3 requests from recent history
+2019/05/03 16:00:10 number of requests: 6
+2019/05/03 16:00:10 High traffic generated an alert - hits = 6
+2019/05/03 16:00:10 trimmed 2 requests from recent history
+2019/05/03 16:00:11 trimmed 4 requests from recent history
+2019/05/03 16:00:12 number of requests: 6
+2019/05/03 16:00:12 trimmed 0 requests from recent history
+2019/05/03 16:00:13 trimmed 5 requests from recent history
+2019/05/03 16:00:14 number of requests: 6
+2019/05/03 16:00:14 trimmed 1 requests from recent history
+2019/05/03 16:00:15 trimmed 3 requests from recent history
+2019/05/03 16:00:16 number of requests: 5
+2019/05/03 16:00:16 Alert recovered; back to normal traffic
+2019/05/03 16:00:16 trimmed 3 requests from recent history
+2019/05/03 16:00:17 trimmed 2 requests from recent history
+2019/05/03 16:00:18 number of requests: 4
+2019/05/03 16:00:18 trimmed 4 requests from recent history
+2019/05/03 16:00:19 trimmed 0 requests from recent history
+2019/05/03 16:00:20 number of requests: 5
+2019/05/03 16:00:20 trimmed 5 requests from recent history
+2019/05/03 16:00:21 trimmed 1 requests from recent history
+2019/05/03 16:00:22 number of requests: 4
+2019/05/03 16:00:22 trimmed 3 requests from recent history
+2019/05/03 16:00:23 trimmed 1 requests from recent history
+2019/05/03 16:00:24 number of requests: 5
+2019/05/03 16:00:24 trimmed 4 requests from recent history
+2019/05/03 16:00:25 Stopped monitoring.
